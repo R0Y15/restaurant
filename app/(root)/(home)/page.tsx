@@ -1,6 +1,6 @@
 
 import AdminUtils from '@/components/AdminUtils'
-import Cart from '@/components/cart'
+import Cart from '@/components/Cart'
 import Details from '@/components/Details'
 import Footer from '@/components/Footer'
 import Hero from '@/components/Hero'
